@@ -32,7 +32,7 @@ cd weather-bot-go
 Создайте файл `.env` в корне проекта:
 ```ini
 BOT_TOKEN=ваш_telegram_токен
-WEATHER_API_KEY=ваш_ключ_openweathermap
+OPENWEATHERAPI_KEY=ваш_ключ_openweather
 ```
 
 ### 3. Запуск
